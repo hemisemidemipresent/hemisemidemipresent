@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-wait a second why the "👋"\nwait there is a predefined format for github profile README(s)?\nI guess I have to use it thanks to "standard practice"
+wait a second why the "👋"
+wait there is a predefined format for github profile README(s)?
+I guess I have to use it thanks to "standard practice"
 
 -   🔭 I’m currently working on [a discord bot](https://github.com/hemisemidemipresent/cyberquincy)
 -   🌱 I’m currently learning [sequelize](https://sequelize.org/)
