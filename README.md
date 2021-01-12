@@ -1,15 +1,13 @@
 # привет
 
-javascript/node.js is a terrible language for efficient systems but I did (I mean tried to at least) it anyway
+Interesting things here:
 
-normally people do cool stuff here but here I am.
+[BTD6 Discord bot used in 200 servers](https://github.com/hemisemidemipresent/cyberquincy) 
 
-### Things I use:
+[first ever automatic timer for speedrunning btd6](https://github.com/hemisemidemipresent/Autosplitter-btd6)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /><img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /><img align="left" alt="discord.js" width="26px" src="https://discord.js.org/static/logo-square.png" />
-<img align="left" alt="Sequelize" width="26px" src="https://avatars3.githubusercontent.com/u/3591786?s=400&v=4" /><img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+[Singapore election map](https://github.com/hemisemidemipresent/sg-election-map)
 
-<br>
+a npm library for getting binary files in dgdata
+- [repo](https://github.com/hemisemidemipresent/dgdata)
+- [npm](https://www.npmjs.com/package/node-dgdata
