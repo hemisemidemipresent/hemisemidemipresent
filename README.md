@@ -10,4 +10,4 @@ Interesting things here:
 
 a npm library for getting binary files in dgdata
 - [repo](https://github.com/hemisemidemipresent/dgdata)
-- [npm](https://www.npmjs.com/package/node-dgdata
+- [npm](https://www.npmjs.com/package/node-dgdata)
