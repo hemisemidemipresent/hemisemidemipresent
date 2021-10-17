@@ -2,16 +2,17 @@
 
 Interesting things here:
 
-[BTD6 Discord bot used in 200 servers](https://github.com/hemisemidemipresent/cyberquincy) 
+[BTD6 Discord bot used in 500+ servers](https://github.com/hemisemidemipresent/cyberquincy) 
 
-[first ever automatic timer for speedrunning btd6](https://github.com/hemisemidemipresent/Autosplitter-btd6)
+[Attempt at visualizing complex functions](https://hemisemidemipresent.github.io/complex)
+- [code](https://github.com/hemisemidemipresent/complex)
 
-Singapore election map, with hover-over data
-- [repo](https://github.com/hemisemidemipresent/sg-election-map)
-- [website](https://sgelection.netlify.app/)
+[Singapore election map, with hover-over data](https://sgelection.netlify.app/)
+- [code](https://github.com/hemisemidemipresent/sg-election-map)
 
 a npm library for getting binary files in dgdata
-- [repo](https://github.com/hemisemidemipresent/dgdata)
 - [npm](https://www.npmjs.com/package/node-dgdata)
+- [code](https://github.com/hemisemidemipresent/dgdata)
 
-still trying to learn how to document code properly
+[hentai code to unique color converter](https://hemisemidemipresent.github.io/color/)
+- [code](https://github.com/hemisemidemipresent/color)
