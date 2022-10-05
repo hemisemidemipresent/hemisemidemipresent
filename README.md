@@ -2,6 +2,8 @@
 
 I will eat you
 
+`hemidemisemipresent#0301` on discord (on github the semi and demi are swapped because someone took hemidemisemipresent)
+
 Average use-JS-for-everything person
 
 ![js](https://github-readme-stats.vercel.app/api/top-langs/?username=hemisemidemipresent&langs_count=15&theme=material-palenight&layout=compact)
