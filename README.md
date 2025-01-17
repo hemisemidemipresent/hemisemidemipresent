@@ -2,7 +2,7 @@
 
 I will eat you
 
-`hemidemisemipresent#0301` on discord (on github the semi and demi are swapped because someone took hemidemisemipresent)
+`@hemidemisemipresent` on discord (on github the semi and demi are swapped because someone took hemidemisemipresent)
 
 Average use-JS-for-everything person
 
